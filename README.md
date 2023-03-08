@@ -1,4 +1,4 @@
-# OpenAI API Quickstart - Python example app
+# Tarot Reading app
 
 This is a tarot drawing and reading app using the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Follow the instructions below to get set up.
 
