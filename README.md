@@ -41,4 +41,4 @@ This is a tarot drawing and reading app using the OpenAI API [quickstart tutoria
    $ flask run
    ```
 
-You should now be able to access the app at [http://localhost:5000](http://localhost:5000)! For the full context behind this example app, check out the [tutorial](https://beta.openai.com/docs/quickstart).
+You should now be able to access the app at [http://localhost:5000](http://localhost:5000)! 
